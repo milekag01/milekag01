@@ -5,17 +5,22 @@
 
 - 🔭 I’m currently working as a Product Engineer @ [Locale AI](https://www.locale.ai/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/milekag01](https://github.com/milekag01)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/milekag01)
 
 - 💬 Ask me about **JS, Vue, React, and any Frontend Topic in general**
 
 - 📫 How to reach me **milekagrawal@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/milek-agrawal-b78008185/](https://www.linkedin.com/in/milek-agrawal-b78008185/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/milek-agrawal-b78008185/)
 
 - ⚡ Fun fact **Have started writing recently.**
 
 ### Blogs posts
+https://dev.to/milekag01/tree-shaking-in-javascript-2po4
+
+https://dev.to/milekag01/javascript-proxy-introduction-68k
+
+https://dev.to/milekag01/ds-using-bitwise-operators-in-programming-1139
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
